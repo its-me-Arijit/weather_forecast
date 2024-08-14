@@ -14,7 +14,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(180deg, #011d1f,#054556, #5c808a);
+    background: linear-gradient(180deg, #03d6e5,#07333f, #598a97);
     margin-bottom: auto;
     position: relative;
 
@@ -34,7 +34,7 @@ body{
     left: 15px;
     padding-right: 7px;
     font-size: 20px;
-    color: #5e5e5e;
+    color: #544f4f;
 }
 
 .search{
@@ -43,7 +43,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: rgb(218, 245, 244);
+    background-color: rgb(224, 239, 238);
     border-radius: 35px;
     
 }
@@ -55,7 +55,7 @@ body{
     padding: 12px 18px;
     border-radius: 35px;
     text-transform: capitalize;
-    color: #979797;
+    color: #4b4949;
 }
 
 .search input::placeholder{
@@ -76,7 +76,7 @@ body{
 }
 
 .search button:hover{
-    background-color: #08b8c8;
+    background-color: #096381;
     color: #fff;
 }
 
@@ -86,7 +86,7 @@ body{
     align-items: center;
     justify-content: center;
     margin-block: 20px;
-    background-color: #fff;
+    background-color: #ffffff;
     margin-bottom: auto;
     
 }
@@ -104,7 +104,7 @@ body{
     position: relative;
     font-weight: 500;
     font-size: 40px;
-    color: #717171;
+    color: #656565;
 }
 
 .weather-details .weather-data sup{
