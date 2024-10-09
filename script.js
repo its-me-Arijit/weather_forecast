@@ -78,3 +78,11 @@ searchBtn.addEventListener('click', ()=>{
     weatherCheck(inputValue.value)
 
 });
+
+
+// Search on "Enter" key press
+inputValue.addEventListener('keydown', (event) => {
+    if (event.key === 'Enter') {
+        weatherCheck(inputValue.value);
+    }
+});
