@@ -11,7 +11,7 @@ https://weatherapp-ag.netlify.app/
 
 ## Screenshots
 
-!![Screenshot (39)](https://github.com/user-attachments/assets/569ef102-dcb3-48c0-be26-5cb95c0c04a5)
+![Screenshot (39)](https://github.com/user-attachments/assets/569ef102-dcb3-48c0-be26-5cb95c0c04a5)
 
 
 
